@@ -1,0 +1,5 @@
+baseURL = 'https://arnabnandikgp.github.io/'
+languageCode = 'en-us'
+title = 'GSoC 24 weekly blogs'
+theme = 'archie'
+

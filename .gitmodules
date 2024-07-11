@@ -1,0 +1,4 @@
+[submodule "GSoC24_blogs/public"]
+	path = GSoC24_blogs/public
+	url = git@github.com:arnabnandikgp/arnabnandikgp.github.io.git
+	branch = main
